@@ -1,0 +1,65 @@
+
+nav{
+    height: 50px;
+    background-color: rgba(252, 234, 212, 0.808);
+    
+}
+.inline-block{
+    display:inline-block;
+    margin-right:50px;
+    margin-top:15px;
+    color:rgb(168, 105, 41);
+  }
+  .block_element{
+    margin-left: 10px;
+  }
+    
+div{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+body{
+    background-color: rgb(255, 252, 246);
+}
+
+h1{
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+.about-me-img{
+    margin-left :auto;
+    margin-right:auto;
+    display:block;
+}
+#about-me{
+    text-align:center;
+    display:block;
+}
+/* .aboutMeFormat{
+    column-count:2;
+    column-gap: 100px;
+} */
+
+/* .brownie{
+    float:right;
+    margin-right:400px;
+} */
+#brownie-img{
+    margin-left :auto;
+    margin-right:auto;
+    display:block;
+    padding-bottom: 40px;
+}
+
+.left{
+    float:left;
+    margin-left:400px;
+}
+
+/* #about.me{
+    float:left;
+    border-style:groove;
+    border-color:rgb(1, 101, 134);
+    width:400px;
+    height:30px;
+    background-color:honeydew;
+} */
